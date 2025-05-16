@@ -1,4 +1,4 @@
 # practice-site
 My first repo test
 
-Hello this Bonga Ngomfela
+Hello this is Bonga Ngomfela
